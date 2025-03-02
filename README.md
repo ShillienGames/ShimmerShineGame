@@ -1,3 +1,5 @@
+Download game: https://shilliengames.itch.io/shimmer-shine
+
 [W,A,S,D] - camera controller
 [Mouse Scroll] - camera size
 [right mouse button] - build mode
